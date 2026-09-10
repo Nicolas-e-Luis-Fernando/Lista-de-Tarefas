@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-export const TaskForm = ({ adicionarTarefa }) => {
+const TaskForm = ({ adicionarTarefa }) => {
 
   // Hook para armazenar os dados digitados no formulário
 
